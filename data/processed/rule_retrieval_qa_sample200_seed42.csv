@@ -1,0 +1,695 @@
+question,ground_truth
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.13.3.2 state exactly? Answer with only the text of the rule and no other words.,"Inspection Approval is valid only for the duration of the specific Formula SAE competition
+during which the inspection is conducted."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.10.3.1 state exactly? Answer with only the text of the rule and no other words.,"Walls
+a. Construction of Internal walls (vertical or horizontal) separating cells and/or segments
+must meet F.10.2.2
+b. Internal vertical walls separating cells and/or segments:
+• Must have minimum height of the full height of the Accumulator Segments
+• Should extend to the lid above any segment
+c. Fastened connections between the floor and any vertical wall of each Section must have
+minimum of two fasteners
+d. Removable horizontal interior walls must be fastened with a minimum of one fastener
+for each external vertical wall per section
+Folding or bending plate material to create flanges or to eliminate joints between walls is
+recommended."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.10.5.6 state exactly? Answer with only the text of the rule and no other words.,"Accumulator Attachment – Corner Attachments
+a. Eight or more attachments are required for any configuration.
+• One attachment for each corner of a rectangular structure of multiple Accumulator
+Segments
+• More than the minimum number of fasteners may be required for non rectangular
+arrangements
+Examples: If not filled in with additional structure, an extruded L shape would require
+attachments at 10 convex corners (the corners at the inside of the L are not convex);
+an extruded hexagon would require 12 attachments
+b. The mechanical connections at each corner must be 50 mm or less from the corner of
+the Segment
+c. Each attachment point must be able to withstand a Test Load equal to 1/4 of total mass
+of the container accelerating at 40 g"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.6.3.3 state exactly? Answer with only the text of the rule and no other words.,"The Front Hoop Braces must be constructed to protect the driver’s legs and should extend to
+the structure in front of the driver’s feet."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.5.4.3 state exactly? Answer with only the text of the rule and no other words.,"The Fuel Filler Neck must be accompanied by a clear fuel resistant sight tube for reading the
+fuel level which must be:
+a. Visible vertical height: 125 mm minimum
+b. Inside diameter: 6 mm minimum
+c. Above the top surface of the Fuel Tank"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.8.4 state exactly? Answer with only the text of the rule and no other words.,"When any of the above conditions exist, the BSPD must Open the Shutdown Circuit IC.9.2.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.9.1 state exactly? Answer with only the text of the rule and no other words.,"Activation Sequence
+The vehicle systems must energize in the following sequence:
+a. Low Voltage (GLV) System EV.9.2
+b. Tractive System Active EV.9.3
+c. Ready to Drive EV.9.4"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.2.1 state exactly? Answer with only the text of the rule and no other words.,Structural Equivalency Spreadsheet - SES
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.3.5 state exactly? Answer with only the text of the rule and no other words.,"If the AMS detects one or more of the conditions of EV.7.3.4 above, the AMS must:
+a. Open the Shutdown Circuit EV.7.2.2
+b. Turn on the AMS Indicator Light. The light must stay on until the AMS is reset EV.7.2.3"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.4.2 state exactly? Answer with only the text of the rule and no other words.,"Motor Controller
+The Tractive System Motor(s) must be connected to the Accumulator through a Motor
+Controller. No direct connections between Motor(s) and Accumulator."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.9.3.1 state exactly? Answer with only the text of the rule and no other words.,Configuration and Location - The Primary Master Switch must meet T.9.3
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.2.2 state exactly? Answer with only the text of the rule and no other words.,"When the Shutdown Circuit Opens:
+a. The Tractive System must Shutdown
+b. All Accumulator current flow must stop immediately EV.5.4.3
+c. The voltage in the Tractive System must be Low Voltage T.9.1.2 in five seconds or less
+d. The Motor(s) must spin free. Torque must not be applied to the Motor(s)"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.3.4 state exactly? Answer with only the text of the rule and no other words.,"Any Tractive System wiring that runs outside of electrical enclosures:
+a. Must meet one of:
+• Enclosed in separate orange nonconductive conduit
+• Use an orange shielded cable.
+b. Must meet one of:
+• Run in a fully enclosed container. Bodywork is not an enclosure.
+• The conduit or shielded cable is securely anchored at each end to allow it to
+withstand a force of 200 N without straining the cable end crimp
+c. Any shielded cable must have the shield grounded."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.5.5.1 state exactly? Answer with only the text of the rule and no other words.,Fueling / Refueling policies and procedures are at the discretion of the fuel crew and officials.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.5.1 state exactly? Answer with only the text of the rule and no other words.,"Transmission and Drive
+Any transmission and drivetrain may be used."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.3.4.2 state exactly? Answer with only the text of the rule and no other words.,"Properties for ANY steel material for calculations submitted in an SES must be:
+a. Non Welded Properties for continuous material calculations:
+Young’s Modulus (E) = 200 GPa (29,000 ksi)
+Yield Strength (Sy) = 305 MPa (44.2 ksi)
+Ultimate Strength (Su) = 365 MPa (52.9 ksi)
+b. Welded Properties for discontinuous material such as joint calculations:
+Yield Strength (Sy) = 180 MPa (26 ksi)
+Ultimate Strength (Su) = 300 MPa (43.5 ksi)"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.1.1 state exactly? Answer with only the text of the rule and no other words.,The electronic throttle must automatically close (return to idle) when power is removed.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.11.4.3 state exactly? Answer with only the text of the rule and no other words.,"The Segment/Cell Transport Container(s) must be:
+a. Electrically insulated
+b. Protected from shock hazards and arc flash"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.8.3.2 state exactly? Answer with only the text of the rule and no other words.,"Examples of acceptable Positive Locking Mechanisms include, but are not limited to:
+a. Correctly installed safety wiring
+b. Cotter pins
+c. Nylon lock nuts (where temperature does not exceed 80°C)
+d. Prevailing torque lock nuts
+Lock washers, bolts with nylon patches and thread locking compounds (Loctite®), DO NOT
+meet the positive locking requirement."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.4.3.6 state exactly? Answer with only the text of the rule and no other words.,"Additional Testing
+When a laminate schedule(s) are NOT a Quasi-Isotropic Layup (F.4.2):
+a. Results from the 3 point bending test will be assigned to the 0 layup direction.
+b. The monocoque must have the tested layup direction normal to the cross sections used
+for Equivalence in the SES, with allowance for taper of the monocoque normal to the
+cross section.
+c. All material properties in the weakest direction must be 50% or more of those in the
+strongest direction as calculated by the SES."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.8.1.5 state exactly? Answer with only the text of the rule and no other words.,"Entry Gate -The path marked by cones which establishes the required path the vehicle must
+take to enter the course."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.3.12.2 state exactly? Answer with only the text of the rule and no other words.,"Any error that results in a team over reporting a cost in their Cost Report will not be further
+penalized."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.3.1 state exactly? Answer with only the text of the rule and no other words.,"The driver’s feet and legs must be completely contained inside the Major Structure of the
+Chassis.
+mm
+05
+mm
+053"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.2.8.1 state exactly? Answer with only the text of the rule and no other words.,A Head Restraint must be provided to limit the rearward motion of the driver’s head.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.4.2 state exactly? Answer with only the text of the rule and no other words.,"The Custom Impact Attenuator must meet the following:
+a. Length 200 mm or more, with its length oriented along the fore/aft axis of the Chassis.
+b. Minimum height 100 mm (perpendicular to the ground) and minimum width 200 mm
+(parallel to the ground) for a minimum distance of 200 mm forward of the Front
+Bulkhead.
+c. Segmented foam attenuators must have all segments bonded together to prevent sliding
+or parallelogramming.
+d. Honeycomb attenuators made of multiple segments must have a continuous panel
+between each segment."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.12.6 state exactly? Answer with only the text of the rule and no other words.,"For Sleeved Butt Joints, the sleeve must:
+a. Have a minimum length of 75 mm; 37.5 mm to each side of the joint
+b. Be external to the base tubes, with a close fit around the base tubes.
+c. Have a wall thickness of 2.0 mm or more"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.3.1 state exactly? Answer with only the text of the rule and no other words.,"Maintenance Plugs must allow electrical separation of the Accumulator Segments to meet:
+a. The separated Segments meet voltage and energy limits of EV.5.1.2
+b. The separation must affect both poles of the Segment"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.9.1 state exactly? Answer with only the text of the rule and no other words.,"Each vehicle must have two Master Switches that must:
+a. Meet T.9.3 for Configuration and Location
+b. Be direct acting, not act through a relay or logic"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.4.3.2 state exactly? Answer with only the text of the rule and no other words.,"The BSE must be able to be checked during Technical Inspection by having one of:
+• A separate detachable connector(s) for any BSE signal(s) to the main ECU without
+affecting any other connections
+• An inline switchable breakout box available that allows disconnection of each BSE
+signal(s) to the main ECU without affecting any other connections"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.3.3 state exactly? Answer with only the text of the rule and no other words.,Submit the Design Briefing as given in section DR - Document Requirements
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.10.1.2 state exactly? Answer with only the text of the rule and no other words.,"Teams who register without the Accumulator:
+a. Must not bring their Accumulator onsite for the duration of the competition
+b. May participate in Technical Inspection and Static Events"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.6 state exactly? Answer with only the text of the rule and no other words.,"DRIVER TEMPLATE INSPECTIONS
+The Driver Template Inspection will be conducted as part of the Mechanical Inspection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.10.8 state exactly? Answer with only the text of the rule and no other words.,"Noise Test Completion
+Noise Tests must be passed before a vehicle may attempt any further inspections"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.4.1.3 state exactly? Answer with only the text of the rule and no other words.,"If used, Outboard Wheel Motors, where the motor, attendant cables and wiring do not meet
+F.11.1.3, must:
+a. Include an Interlock EV.7.8
+This Interlock(s) must Open the Shutdown Circuit EV.7.2.2 before failure of the Tractive
+System wiring when the wiring is damaged or the Wheel/Motor assembly is damaged or
+knocked off the vehicle.
+b. Reduce the length of the portions of wiring and other connections that do not meet
+F.11.1.3 to the extent possible"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.10.1.3 state exactly? Answer with only the text of the rule and no other words.,"The Accumulator Containers and mounting systems are subject to approval during SES review
+and Technical Inspection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.1.4 state exactly? Answer with only the text of the rule and no other words.,"All forward facing edges that could contact a pedestrian (wings, end plates, and undertrays)
+must have a minimum radius of 5 mm for all horizontal edges and 3 mm for vertical edges.
+This may be the radius of the edges themselves, or additional permanently attached pieces
+designed to meet this requirement."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule V.3.2.8 state exactly? Answer with only the text of the rule and no other words.,"Fasteners in the steering system are Critical Fasteners, see T.8.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.3.1.8 state exactly? Answer with only the text of the rule and no other words.,"The Brake System must be protected with scatter shields from failure of the drive train (see
+T.5.2) or from minor collisions."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.1.10 state exactly? Answer with only the text of the rule and no other words.,"Primary Structure
+The combination of the following components:
+• Front Bulkhead and Front Bulkhead Support
+• Front Hoop, Main Hoop, Roll Hoop Braces and Supports
+• Side Impact Structure
+• (EV Only) Tractive System Protection and Rear Impact Protection
+• Any Frame Members, guides, or supports that transfer load from the Driver Restraint
+System"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.3.1.5 state exactly? Answer with only the text of the rule and no other words.,A single brake acting on a limited slip differential may be used
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.3.2 state exactly? Answer with only the text of the rule and no other words.,"Strength of the Composite Anti Intrusion Plate must be verified by one of the two methods:
+a. Physical testing of the AIP attached to a structurally representative section of the
+intended chassis
+• The test fixture must have equivalent strength and stiffness to a baseline front
+bulkhead or must be the same as the first 50 mm of the Chassis
+• Test data is valid for only one Competition Year
+b. Laminate material testing under F.4.3.2 and F.4.3.5 and calculations of 3 point bending
+and perimeter shear"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.13.1.1 state exactly? Answer with only the text of the rule and no other words.,"The Efficiency is based on a metric of the amount of fuel consumed or energy used and the lap
+time on the endurance course, averaged over the length of the event."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.2.6.1 state exactly? Answer with only the text of the rule and no other words.,"From the driver’s shoulders rearwards to the mounting point or structural guide, the Shoulder
+Belt Side View Angle must be between 10° above the horizontal and 20° below the horizontal."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.6.2 state exactly? Answer with only the text of the rule and no other words.,"The Main Hoop and Front Hoop must be Triangulated into the Primary Structure with
+Structural Tubing
+The Triangulation must be at a node in side view for:
+a. Bends in side view
+b. Bends in front view below the Upper Side Impact Structure F.6.4, F.7.5"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.1.3 state exactly? Answer with only the text of the rule and no other words.,"No further energy storage except for reasonably sized intermediate circuit capacitors are
+allowed after the Energy Meter EV.3.1"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.5.9 state exactly? Answer with only the text of the rule and no other words.,"All connections to external devices such as laptops from a Tractive System component must
+include galvanic isolation."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.10.2.2 state exactly? Answer with only the text of the rule and no other words.,"Exhaust Outlets that are not parallel to the ground may be tested outside of the horizontal
+plane."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.3.4.2 state exactly? Answer with only the text of the rule and no other words.,"The Brake Light must be:
+a. Red in color on a Black background
+b. Rectangular, triangular or near round shape with a minimum shining surface of 15 cm2
+c. Mounted between the wheel centerline and driver’s shoulder level vertically and
+approximately on vehicle centerline laterally."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.3.3.5 state exactly? Answer with only the text of the rule and no other words.,The driver must not be able to reset the BOTS.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.3.3.3 state exactly? Answer with only the text of the rule and no other words.,"Cost Scenario
+Teams will respond to a challenge related to cost or manufacturing of the vehicle."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.6.1 state exactly? Answer with only the text of the rule and no other words.,"When forward of the centerline of the front wheel axles:
+Inboard of two vertical planes parallel to the centerline of the chassis touching the outside of
+the front tires at the height of the hubs."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.1.2 state exactly? Answer with only the text of the rule and no other words.,"The team and vehicle that illustrate the best use of engineering to meet the design goals, a
+cost effective high performance vehicle, and the best understanding of the design by the team
+members will win the Design Event."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.4.2.1 state exactly? Answer with only the text of the rule and no other words.,"The Accelerator Pedal must actuate the APPS T.1.4.1
+a. Two springs must be used to return the foot pedal to 0% Pedal Travel
+b. Each spring must be capable of returning the pedal to 0% Pedal Travel with the other
+disconnected. The springs in the APPS are not acceptable pedal return springs."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.2.2 state exactly? Answer with only the text of the rule and no other words.,"These Design Documents will be used for:
+• Design Judge reviews prior to the Design Event
+• Sorting teams into appropriate design groups based on the quality of their review."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.7.1 state exactly? Answer with only the text of the rule and no other words.,"The team may bring only the following into the Driver Change Area:
+a. Three team members, including the driver or drivers
+b. (EV Only) The three team members must consist of an ESO EV.11.1.1 and two drivers.
+c. Minimal tools necessary to adjust the vehicle to fit the second driver and/or change tires
+Team members may only carry tools by hand (no carts, tool chests etc)
+d. Each extra person entering the Driver Change Area: 20 point penalty"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.11.2.2 state exactly? Answer with only the text of the rule and no other words.,Runs with the first driver have priority
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.4.1.2 state exactly? Answer with only the text of the rule and no other words.,"Black Flag - Pull into the Driver Change Area for discussion with the track officials. A time
+penalty may be assessed."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.4.3 state exactly? Answer with only the text of the rule and no other words.,"Pre event submissions will be subject to penalties imposed as given in section DR - Document
+Requirements."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.4.7.1 state exactly? Answer with only the text of the rule and no other words.,"All or portions of the Tractive System, Charger and other components may be sealed IN.2.6"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.4.2.9 state exactly? Answer with only the text of the rule and no other words.,"Any failure of the APPS or APPS wiring must be detectable by the controller and must be
+treated like an Implausibility, see T.4.2.4 above"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.1.15 state exactly? Answer with only the text of the rule and no other words.,"Component Envelope
+The area that is inside a plane from the top of the Main Hoop to the top of the Front
+Bulkhead, plus a plane from the top of the Main Hoop to the rearmost Triangulated structural
+tube, or monocoque equivalent. * see note in step F.1.13 above"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.1.1 state exactly? Answer with only the text of the rule and no other words.,The template shown below must pass through the cockpit opening
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.6.1 state exactly? Answer with only the text of the rule and no other words.,"The only items allowed forward of the Anti Intrusion Plate in front view are the Impact
+Attenuator, fastener heads, and light bodywork / nosecones
+Fasteners should be oriented with the nuts rearwards"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.2.2.1 state exactly? Answer with only the text of the rule and no other words.,"Allowable dimensions are absolute, and do not have any tolerance unless specifically stated."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.1.17 state exactly? Answer with only the text of the rule and no other words.,"Triangulation
+An arrangement of Frame Members where all members and segments of members between
+bends or nodes with Structural tubes form a structure composed entirely of triangles.
+a. This is generally required between an upper member and a lower member, both of
+which may have multiple segments requiring a diagonal to form multiple triangles.
+b. This is also what is meant by “properly triangulated”."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.7.2 state exactly? Answer with only the text of the rule and no other words.,"Grounded parts of the vehicle must have a resistance to GLV System Ground less than the
+values specified below.
+a. Electrically conductive parts 300 mOhms (measured with a current of 1 A)
+Examples: parts made of steel, (anodized) aluminum, any other metal parts
+b. Parts which may become electrically conductive 5 Ohm
+Example: carbon fiber parts
+Carbon fiber parts may need special measures such as using copper mesh or similar to
+keep the ground resistance below 5 Ohms."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.14.1 state exactly? Answer with only the text of the rule and no other words.,"Prior to Inspection Approval
+Once the vehicle has been presented for judging in the Cost or Design Events, or submitted for
+Technical Inspection, and until the vehicle has the full Inspection Approval, the only
+modifications permitted to the vehicle are those directed by the Inspector(s) and noted on the
+Inspection Form."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.11.1 state exactly? Answer with only the text of the rule and no other words.,"Passing during Endurance may only be done in the designated passing zones, under the
+control of the track officials."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.6.2.2 state exactly? Answer with only the text of the rule and no other words.,"All High Pressure Fuel Lines must:
+a. Be stainless steel rigid line or Aeroquip FC807 smooth bore PTFE hose with stainless steel
+reinforcement and visible Nomex tracer yarn. Equivalent products may be used with
+prior approval.
+b. Not incorporate elastomeric seals
+c. Be rigidly connected every 100 mm by mechanical fasteners to structural engine
+components such as cylinder heads or block"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.8 state exactly? Answer with only the text of the rule and no other words.,"Judging Sequence
+Presentation judging may be conducted in one or more phases."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.10.2.4 state exactly? Answer with only the text of the rule and no other words.,"When the exhaust has a manually adjustable tuning device(s):
+a. The position of the device must be visible to the officials for the noise test
+b. The device must be manually operable by the officials during the noise test
+c. The device must not be moved or modified after the noise test is passed"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.2.3 state exactly? Answer with only the text of the rule and no other words.,"Bodywork must not contain openings into the cockpit from the front of the vehicle back to the
+Main Hoop or Firewall. The cockpit opening and minimal openings around the front
+suspension components are allowed."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.4.2 state exactly? Answer with only the text of the rule and no other words.,"Two or more separate sensors must be used as TPSs. The TPSs may share the same supply and
+reference lines only if effects of supply and/or reference line voltage offsets can be detected."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule VE.2.5.1 state exactly? Answer with only the text of the rule and no other words.,The mounts for video/photographic cameras must be of a safe and secure design.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.1 state exactly? Answer with only the text of the rule and no other words.,"Presentation Event Objective
+The Presentation Event evaluates the team’s ability to develop and deliver a comprehensive
+business, logistical, production, or technical case that will convince outside interests to invest
+in the team’s concept."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.3.2 state exactly? Answer with only the text of the rule and no other words.,"Maintenance Plugs must:
+a. Require the physical removal or separation of a component. Contactors or switches are
+not acceptable Maintenance Plugs
+b. Have access after opening the Accumulator Container and not necessary to move or
+remove any other components
+c. Not be physically possible to connect in any configuration other than the design intended
+configuration
+d. Not require tools to install or remove
+e. Include a positive locking feature which prevents the plug from unintentionally becoming
+loose
+f. Be nonconductive on surfaces that do not provide any electrical connection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.6.1 state exactly? Answer with only the text of the rule and no other words.,A Green Flag or light signal will give the approval to begin the run
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.10.2.1 state exactly? Answer with only the text of the rule and no other words.,"Each team may attempt up to four runs, using two drivers, limited to two runs for each driver."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.7.8.7 state exactly? Answer with only the text of the rule and no other words.,"The Front Hoop Bracing, Main Hoop Bracing and Main Hoop Bracing Supports may use only
+one 10 mm or 3/8” minimum diameter Critical Fasteners, see T.8.2 as an alternative to F.7.8.5
+above if the bolt is on the centerline of the bracing tube to prevent loading the bolt in
+bending, similar to the figure below."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.9.4.1 state exactly? Answer with only the text of the rule and no other words.,"Configuration - The Cockpit Main Switch must:
+a. Be a push-pull or push-rotate emergency switch (pushing the button is the OFF position)
+b. Have a diameter of 24 mm minimum"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.7.3 state exactly? Answer with only the text of the rule and no other words.,"The Front Hoop must extend from the lowest Frame Member on one side of the Frame, up,
+over and down to the lowest Frame Member on the other side of the Frame."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.3.9 state exactly? Answer with only the text of the rule and no other words.,"Vehicle Integrity
+Officials may revoke the Inspection Approval for any vehicle condition that could compromise
+vehicle integrity, compromise the track surface, or pose a potential hazard.
+This could result in DNF or DQ of any Dynamic event."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.6.4 state exactly? Answer with only the text of the rule and no other words.,"Driver Template
+A two dimensional template used to represent the 95th percentile male is made to the
+following dimensions (see figure below):
+• A circle of diameter 200 mm will represent the hips and buttocks.
+• A circle of diameter 200 mm will represent the shoulder/cervical region.
+• A circle of diameter 300 mm will represent the head (with helmet).
+• A straight line measuring 490 mm will connect the centers of the two 200 mm circles.
+• A straight line measuring 280 mm will connect the centers of the upper 200 mm circle
+and the 300 mm head circle."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.4.2 state exactly? Answer with only the text of the rule and no other words.,"Threaded fasteners used in Primary Structure are Critical Fasteners, see T.8.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.7.1.5 state exactly? Answer with only the text of the rule and no other words.,"Composite monocoques must:
+a. Meet the materials requirements in F.4 Composite and Other Materials
+b. Use data from the laminate testing results as the basis for any strength or stiffness
+calculations"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.4.3.1 state exactly? Answer with only the text of the rule and no other words.,"Testing Requirements
+a. Any tested samples must be engraved with the construction date, sample name, and
+peak test force.
+b. The same set of test results must not be used for different monocoques in different
+years.
+The intent is for the test panel to use the same material batch, material age, material storage,
+and student layup quality as the monocoque."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.1.1 state exactly? Answer with only the text of the rule and no other words.,"Aerodynamic Device
+A part on the vehicle which guides airflow for purposes including generation of downforce
+and/or change of drag.
+Examples include but are not limited to: wings, undertray, splitter, endplates, vanes"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.6.2.3 state exactly? Answer with only the text of the rule and no other words.,"Any Low Pressure flexible Fuel Lines must be one of:
+• Metal braided hose with threaded fittings (crimped on or reusable)
+• Reinforced rubber hose with some form of abrasion resistant protection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.7.5.1 state exactly? Answer with only the text of the rule and no other words.,The vehicle must stay below the permitted sound level at all times IN.10.5
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.4.2 state exactly? Answer with only the text of the rule and no other words.,Accelerator Pedal Position Sensor - APPS
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.8.8 state exactly? Answer with only the text of the rule and no other words.,"Test Analysis
+a. When using acceleration data from the dynamic test, the average deceleration must be
+calculated based on the raw unfiltered data.
+b. If peaks above the 40 g limit are present in the data, a Channel Filter Class (CFC) 60
+(100Hz) filter per SAE Recommended Practice J211 “Instrumentation for Impact Test”, or
+a 100 Hz, 3rd order, low pass Butterworth (-3dB at 100 Hz) filter may be applied."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.2.2 state exactly? Answer with only the text of the rule and no other words.,"Conduct of the test. The template:
+a. Will be held vertically and inserted into the cockpit opening rearward of the rearmost
+portion of the steering column.
+b. Will then be passed horizontally through the cockpit to a point 100 mm rearwards of the
+face of the rearmost pedal when in the inoperative position
+c. May be moved vertically inside the cockpit"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.8.4.2 state exactly? Answer with only the text of the rule and no other words.,"When the Charging Shutdown Circuit Opens:
+a. All current flow to the Accumulator must stop immediately
+b. The voltage in the Tractive System must be Low Voltage T.9.1.2 in five seconds or less
+c. The Charger must be turned off
+d. The Charger must stay disabled until manually reset"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.6.3.6 state exactly? Answer with only the text of the rule and no other words.,"The Front Hoop Braces must be straight, without any bends"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.7.1 state exactly? Answer with only the text of the rule and no other words.,All vehicles must have a Floor Closeout to prevent track debris from entering
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.11.2.1 state exactly? Answer with only the text of the rule and no other words.,"Side Impact Protection
+a. All Accumulator Containers must be protected from side impact by structure Equivalent
+to Side Impact Structure (F.6.4, F.7.5)
+The Accumulator Container must not be part of the Equivalent structure.
+b. Accumulator Container side impact protection must go to a minimum height that is the
+lower of the two:
+• The height of the Upper Side Impact Structure
+• The top of the Accumulator Container at that point
+c. Tractive System components other than Accumulator Containers in a position below 350
+mm from the ground must be protected from side impact by structure that meets F.5.16
+Component Protection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.9.7 state exactly? Answer with only the text of the rule and no other words.,"The Main Hoop Braces must be:
+a. Securely integrated into the Frame
+b. Capable of transmitting all loads from the Main Hoop into the Major Structure of the
+Chassis without failing"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.6.2.5 state exactly? Answer with only the text of the rule and no other words.,"High Pressure Fuel Pump – must be rigidly mounted to structural engine components such as
+the cylinder head or engine block."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.2.5.5 state exactly? Answer with only the text of the rule and no other words.,"With a Reclined Driving Position, the Lap Belt Side View Angle must be between 60° and 80° to
+the horizontal."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule VE.3.3.5 state exactly? Answer with only the text of the rule and no other words.,"Shoes
+Shoes or boots made from Flame Resistant Material that meet an approved standard and
+labeled as such:
+• SFI Spec 3.3
+• FIA Standard 8856-2000
+• FIA Standard 8856-2018"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.8.1.2 state exactly? Answer with only the text of the rule and no other words.,"DNF - Did Not Finish – The team attempted a run, but did not complete it, or was not allowed
+to complete it"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.7.1 state exactly? Answer with only the text of the rule and no other words.,"Any part of any Aerodynamic Device that is located:
+a. In the Rear Aerodynamic Zone must be no higher than 1200 mm above the ground
+b. Outside of the Rear Aerodynamic Zone must be no higher than 500 mm above the
+ground
+c. Forward of the centerline of the front wheel axles and outboard of two vertical planes
+parallel to the centerline of the chassis touching the inside of the front tires at the height
+of the hubs must be no higher than 250 mm above the ground"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.9.2.2 state exactly? Answer with only the text of the rule and no other words.,"All Low Voltage batteries must have Overcurrent Protection that trips at or below the
+maximum specified discharge current of the cells"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.4.3.1 state exactly? Answer with only the text of the rule and no other words.,"If the Accumulator Container(s) is not easily accessible during Electrical Tech Inspection,
+provide detailed pictures of the internals taken during assembly"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.11.1.3 state exactly? Answer with only the text of the rule and no other words.,"Tractive System (EV.1.1) components including cables and wiring other than those in F.11.1.2
+above must be contained inside one or both of:
+• The Rollover Protection Envelope F.1.13
+• Structure meeting F.5.16 Component Protection"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.7.8.6 state exactly? Answer with only the text of the rule and no other words.,"Each attachment point requires backing plates which meet one of:
+• Steel with a minimum thickness of 2 mm
+• Alternate materials if Equivalency is approved"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.10.5 state exactly? Answer with only the text of the rule and no other words.,"Maximum Permitted Sound Level
+a. At idle 103 dBC, fast weighting
+b. At all other speeds 110 dBC, fast weighting"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.3.9.1 state exactly? Answer with only the text of the rule and no other words.,"Every part may be classified as Made or Bought.
+Refer to the Formula SAE Cost Event Supplement for additional information"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.1.5 state exactly? Answer with only the text of the rule and no other words.,"Front Hoop
+A roll bar located above the driver’s legs, in proximity to the steering wheel."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.5.2.1 state exactly? Answer with only the text of the rule and no other words.,"Exposed high speed final drivetrain equipment such as Continuously Variable Transmissions
+(CVTs), sprockets, gears, pulleys, torque converters, clutches, belt drives, clutch drives and
+electric motors, must be fitted with scatter shields intended to contain drivetrain parts in case
+of radial failure"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.2.2 state exactly? Answer with only the text of the rule and no other words.,"The Endurance course will be designed with the following specifications. Average speed
+should be 48 km/hr to 57 km/hr with top speeds of approximately 105 km/hr.
+a. Straights: No longer than 77 m with hairpins at both ends
+b. Straights: No longer than 61 m with wide turns on the ends
+c. Constant Turns: 30 m to 54 m diameter
+d. Hairpin Turns: 9 m minimum outside diameter (of the turn)
+e. Slaloms: Cones in a straight line with 9 m to 15 m spacing
+f. Miscellaneous: Chicanes, multiple turns, decreasing radius turns, etc.
+g. Minimum track width: 4.5 m
+h. Designated passing zones at several locations"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.5.3.2 state exactly? Answer with only the text of the rule and no other words.,"Any Fuel Tank that is made from a flexible material, for example a bladder fuel cell or a bag
+tank:
+a. Must be enclosed inside a rigid fuel tank container which is securely attached to the
+vehicle structure.
+b. The Fuel Tank container may be load carrying"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.2.1 state exactly? Answer with only the text of the rule and no other words.,"Teams must submit the Design Briefing, Design Spec Sheet and Vehicle Drawings"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.9.1.1 state exactly? Answer with only the text of the rule and no other words.,Course length will be 75 m from starting line to finish line
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.7.2 state exactly? Answer with only the text of the rule and no other words.,"Bodywork height is not restricted when the Bodywork is located:
+• Between the transverse vertical planes positioned at the front and rear axle centerlines
+• Inside two vertical fore and aft planes 400 mm outboard from the centerline on each
+side of the vehicle"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.4.1 state exactly? Answer with only the text of the rule and no other words.,"The Vehicle Drawings must meet the following:
+a. Three view line drawings showing the vehicle, from the front, top, and side
+b. Each drawing must appear on a separate page
+c. May be manually or computer generated"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.4.1 state exactly? Answer with only the text of the rule and no other words.,"The AMS must measure the cell voltage of every cell
+When single cells are directly connected in parallel, only one voltage measurement is needed"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.2.8.2 state exactly? Answer with only the text of the rule and no other words.,The Head Restraint must be vertical or near vertical in side view.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.1.12 state exactly? Answer with only the text of the rule and no other words.,"Major Structure
+The portion of the Chassis that lies inside the Primary Structure Envelope, excluding the Main
+Hoop Bracing and the portion of the Main Hoop above a horizontal plane located at the top of
+the Upper Side Impact Member or top of the Side Impact Zone."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.13.4.3 state exactly? Answer with only the text of the rule and no other words.,"Scoring Term Definitions:
+• CO min - the smallest mass of CO used by any competitor who is eligible for Efficiency
+2 2
+• CO your - the mass of CO used by the team being scored
+2 2
+• Tmin - the lowest Endurance time of the fastest team which is eligible for Efficiency
+• Tyour - same as Endurance (D.12.13.1)
+• Lapyours - the number of laps driven by the team being scored
+• Laptotal Tmin and Latptotal CO min - be the number of laps completed by the teams
+2
+which set Tmin and CO min, respectively
+2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.8.4 state exactly? Answer with only the text of the rule and no other words.,"Details
+a. Firewalls composed of multiple panels must overlap and be sealed at the joints
+Sealing between firewalls must not be a stressed part of the Firewall
+b. Grommets must be used to seal any pass through for wiring, cables, etc
+c. Any seals or adhesives used with the Firewall must be rated for the application
+environment"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.3 state exactly? Answer with only the text of the rule and no other words.,"INITIAL INSPECTION
+Bring these to Initial Inspection:
+• Technical Inspection Form
+• All Driver Equipment per VE.3 to be used by each driver
+• Fire Extinguishers (for paddock and vehicle) VE.2.3
+• Wet Tires V.4.3.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.3.2.1 state exactly? Answer with only the text of the rule and no other words.,"The organizer may specify restrictions for the Dynamic Area. These could include limiting the
+number of team members and what may be brought into the area."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.3.8.2 state exactly? Answer with only the text of the rule and no other words.,"If a team wishes to use any Parts, Processes or Materials not included in the tables, an Add
+Item Request must be submitted. See S.3.10"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.2.1.2 state exactly? Answer with only the text of the rule and no other words.,The ESF may provide guidance or more details than the Formula SAE Rules.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.9.4.1 state exactly? Answer with only the text of the rule and no other words.,Definition – the Motor(s) will respond to the input of the APPS
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.10.2.1 state exactly? Answer with only the text of the rule and no other words.,"The Floor or Bottom must be made from one of the three:
+a. Steel 1.25 mm minimum thickness
+b. Aluminum 3.2 mm minimum thickness
+c. Equivalent Alternate / Composite materials ( F.4.1, F.4.3 )"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.6.5 state exactly? Answer with only the text of the rule and no other words.,"Battery packs with Low Voltage or non voltage rated fusible links for cell connections may be
+used when all three conditions are met:
+• An Overcurrent Protection device rated at less than or equal to one third the sum of the
+parallel fusible links and complying with EV.6.6.2.b above is connected in series.
+• The AMS can detect an open fusible link and will Open the Shutdown Circuit EV.7.2.2 if a
+fault is detected.
+• Fusible link current rating is specified in manufacturer’s data or suitable test data is
+provided."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.1.1 state exactly? Answer with only the text of the rule and no other words.,"Tractive System – TS
+Every part electrically connected to the Motor(s) and/or Accumulator(s)"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.6.6.1 state exactly? Answer with only the text of the rule and no other words.,"Frame Members of the Main Hoop Bracing Support system must be constructed of closed
+section tubing meeting F.3.2.1.i"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.7.1.1 state exactly? Answer with only the text of the rule and no other words.,"The Structural Equivalency Spreadsheet must show that the design is Equivalent to a welded
+frame in terms of energy dissipation, yield and ultimate strengths in bending, buckling and
+tension"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.6.3 state exactly? Answer with only the text of the rule and no other words.,"Pedal assembly at full travel and adjustment must have a minimum 25 mm clearance to the:
+a. Rear face of the Anti Intrusion Plate
+b. All Front Bulkhead structure F.6.1, F.7.2, F.8.4.3
+c. All Non Crushable Items inside the Primary Structure
+Non Crushable Items include, but are not limited to batteries, master cylinders, hydraulic
+reservoirs"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.2.5 state exactly? Answer with only the text of the rule and no other words.,"Teams should assume that the judges represent different areas, including engineering,
+production, marketing and finance, and may not all be engineers."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.7.1.3 state exactly? Answer with only the text of the rule and no other words.,"All Aerodynamic Devices must meet:
+a. The mounting system provides sufficient rigidity in the static condition
+b. The Aerodynamic Devices do not oscillate or move excessively when the vehicle is
+moving. Refer to IN.8.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.9.1 state exactly? Answer with only the text of the rule and no other words.,"The vehicle must include a Tractive Systems Active Light (TSAL) that must:
+a. Illuminate when the GLV System is energized to indicate the status of the Tractive
+System
+b. Be directly controlled by the voltage present in the Tractive System using hard wired
+electronics. Software control is not permitted.
+c. Not perform any other functions."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.3 state exactly? Answer with only the text of the rule and no other words.,"Presentation Schedule
+Teams that fail to make their presentation during their assigned time period will receive zero
+points for the Presentation Event."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.4.1 state exactly? Answer with only the text of the rule and no other words.,"All Tractive System connections must:
+a. Be designed to use intentional current paths through conductors designed for electrical
+current
+b. Not rely on steel bolts to be the primary conductor
+c. Not include compressible material such as plastic in the stack-up"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.14.2.2 state exactly? Answer with only the text of the rule and no other words.,"Changes to fit the vehicle to different drivers are allowed. Permitted changes are:
+• Adjustment of the driver restraint system, Head Restraint, seat and pedal assembly
+• Substitution of the Head Restraint or seat insert
+• Adjustment of mirrors"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.7.2 state exactly? Answer with only the text of the rule and no other words.,The Floor Closeout must extend from the foot area to the firewall
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.4.4 state exactly? Answer with only the text of the rule and no other words.,"If an Implausibility occurs between the values of the two TPSs and persists for more than 100
+msec, the power to the electronic throttle must be immediately shut down."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.1.3 state exactly? Answer with only the text of the rule and no other words.,"Accumulator
+All the battery cells or super capacitors that store the electrical energy to be used by the
+Tractive System"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.4.2 state exactly? Answer with only the text of the rule and no other words.,Submit the Vehicle Drawings as given in section DR - Document Requirements
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.9.1 state exactly? Answer with only the text of the rule and no other words.,Tractive System Firewalls must meet the requirements of T.1.8 above
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.11 state exactly? Answer with only the text of the rule and no other words.,"AUTOCROSS EVENT
+The Autocross event evaluates the vehicle maneuverability and handling qualities on a tight
+course"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.8.3.1 state exactly? Answer with only the text of the rule and no other words.,Dimensions of the Monocoque will be confirmed F.7.1.4
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.2.3 state exactly? Answer with only the text of the rule and no other words.,"Penalties for Late Submission of all or any one of the Design Documents will be imposed as
+given in section DR - Document Requirements"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.6.3.4 state exactly? Answer with only the text of the rule and no other words.,"The Front Hoop Braces must be attached as near as possible to the top of the Front Hoop but
+not more than 50 mm below the top-most surface of the Front Hoop. See figure following
+F.5.9.6 above"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.4.5.1 state exactly? Answer with only the text of the rule and no other words.,"The insulation resistance between the Tractive System and GLV System Ground will be
+measured."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.4.1.4 state exactly? Answer with only the text of the rule and no other words.,"Blue Flag - Pull into the designated passing zone to be passed by a faster competitor. Obey the
+corner workers signals at the end of the passing zone to merge into competition."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.7.1 state exactly? Answer with only the text of the rule and no other words.,"Grounding is required for:
+a. Parts of the vehicle which are 100 mm or less from any Tractive System component
+b. The Tractive System Firewall T.1.9"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.4.1 state exactly? Answer with only the text of the rule and no other words.,"Teams must do one of:
+• Use an approved Standard Impact Attenuator from the FSAE Online Website
+• Build and test a Custom Impact Attenuator of their own design F.8.8"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.4.1.1 state exactly? Answer with only the text of the rule and no other words.,"The Design Event evaluates the engineering effort that went into the vehicle and how the
+engineering meets the intent of the market both in terms of vehicle performance and overall
+value."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.5.2.3 state exactly? Answer with only the text of the rule and no other words.,"If a bent tube (or member consisting of multiple tubes that are not in a line) is used anywhere
+in the Primary Structure other than the Roll Hoops (see F.5.6.2), an additional tube must be
+attached to support it.
+a. The support tube attachment point must be at the position along the bent tube where it
+deviates farthest from a straight line connecting both ends
+b. The support tube must terminate at a node of the chassis
+c. The support tube for any bent tube (other than the Upper Side Impact Member or
+Shoulder Harness Mounting Bar) must be:
+• The same diameter and thickness as the bent tube
+• Angled no more than 30° from the plane of the bent tube"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.13.3.1 state exactly? Answer with only the text of the rule and no other words.,"Maximum Time
+Vehicles whose average Endurance laptime exceeds 1.45 times the average Endurance
+laptime of the fastest team that completes the Endurance event will receive zero points"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule V.4.2.1 state exactly? Answer with only the text of the rule and no other words.,"Any wheel mounting system that uses a single retaining nut must incorporate a device to
+retain the nut and the wheel if the nut loosens.
+A second nut (jam nut) does not meet this requirement"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.2.1.2 state exactly? Answer with only the text of the rule and no other words.,"Technical inspectors will not inspect any vehicle presented for inspection in an unfinished
+state."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.11.3 state exactly? Answer with only the text of the rule and no other words.,"When a pass is to be made:
+a. A slower leading vehicle will receive a Blue Flag
+b. The slower vehicle must move into the slow lane and decelerate.
+c. The following faster vehicle will continue in the fast lane and make the pass.
+d. The vehicle that had been passed may reenter traffic only under the control of the
+passing zone exit flag."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.2.2.1 state exactly? Answer with only the text of the rule and no other words.,The concept for the Presentation Event will be provided on the FSAE Online website.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.9.4.1 state exactly? Answer with only the text of the rule and no other words.,"Inertia Switch Requirement
+• (EV) Must have an Inertia Switch
+• (IC) Should have an Inertia Switch"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.2.1 state exactly? Answer with only the text of the rule and no other words.,"An ETC system that is commercially available, but does not comply with the regulations, may
+be used, if approved prior to the event."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.13.4.2 state exactly? Answer with only the text of the rule and no other words.,(EV only) Full credit is given for energy recovered through regenerative braking
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.6.4.5 state exactly? Answer with only the text of the rule and no other words.,"The Lower Side Impact Structure member must connect the bottom of the Main Hoop and the
+bottom of the Front Hoop."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.1.6.1 state exactly? Answer with only the text of the rule and no other words.,"When seated in the normal driving position, sufficient heat insulation must be provided to
+ensure that the driver will not contact any metal or other materials which may become heated
+to a surface temperature above 60°C."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.4.4.1 state exactly? Answer with only the text of the rule and no other words.,"When specified, the Equivalence of the chassis must be calculated as a flat panel with the
+same composition as the chassis about the neutral axis of the laminate."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.4.7.1 state exactly? Answer with only the text of the rule and no other words.,"Must monitor for the two conditions:
+• The mechanical brakes are engaged EV.4.6, T.3.2.4
+• The APPS signals more than 25% Pedal Travel EV.4.5"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.4.5 state exactly? Answer with only the text of the rule and no other words.,"A capacitor may be used to hold the AIRs closed for up to 250 ms after the Shutdown Circuit
+Opens EV.7.2.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.10.2.2 state exactly? Answer with only the text of the rule and no other words.,"Vertical Walls, Covers and Lids must be made from one of the three:
+a. Steel 0.9 mm minimum thickness
+b. Aluminum 2.3 mm minimum thickness
+c. Equivalent Alternate / Composite materials ( F.4.1, F.4.3 )"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.7.7 state exactly? Answer with only the text of the rule and no other words.,"Roll Hoop Bracing Attachment
+Attachment of tubular Front or Main Hoop Bracing to the monocoque must obey F.7.8."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.2.2 state exactly? Answer with only the text of the rule and no other words.,"Fueling and Charging
+(IC only) Officials must conduct all fueling activities in the designated location.
+(EV only) Accumulator charging must be done in the designated location EV.11.5"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.3.4.2 state exactly? Answer with only the text of the rule and no other words.,"Missing Energy Meter data due to the team’s fault, tampering, or attempting to tamper with
+the Energy Meter will be treated as a Violation."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.1.2.2 state exactly? Answer with only the text of the rule and no other words.,"Staging Area – Any area(s) inside the Dynamic Area prior to the entry to an event for the
+purpose of gathering those vehicles that are about to start."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule VE.3.1.3 state exactly? Answer with only the text of the rule and no other words.,"Synthetic Material – Prohibited
+Shirts, socks or other undergarments (not to be confused with flame resistant underwear)
+made from nylon or any other synthetic material which could melt when exposed to high heat
+are prohibited."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.12.3.2 state exactly? Answer with only the text of the rule and no other words.,The Brake Test passes if all four wheels lock while the Tractive System is shut down
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.5.3 state exactly? Answer with only the text of the rule and no other words.,"The Endurance Event is complete when both:
+• the team has completed the specified number of laps
+• the second driver crosses the finish line"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.6.2.4 state exactly? Answer with only the text of the rule and no other words.,"Fuel rail mounting requirements:
+a. The fuel rail must be securely attached to the engine block or cylinder head with brackets
+and mechanical fasteners. Hose clamps, plastic ties, or safety wires do not meet this
+requirement.
+b. The fastening method must be sufficient to hold the fuel rail in place with the maximum
+regulated pressure acting on the injector internals and neglecting any assistance from
+cylinder pressure acting on the injector tip.
+c. Threaded fasteners used to secure the fuel rail are Critical Fasteners, see T.8.2"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.7.3.1 state exactly? Answer with only the text of the rule and no other words.,Adjustable tuning or throttling devices are permitted.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.14.2.1 state exactly? Answer with only the text of the rule and no other words.,"The vehicle must maintain all required specifications (including but not limited to ride height,
+suspension travel, braking capacity (pad material/composition), sound level and wing location)
+throughout the competition."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule V.2.2 state exactly? Answer with only the text of the rule and no other words.,"Visibility
+a. The driver must have sufficient visibility to the front and sides of the vehicle
+b. When seated in a normal driving position, the driver must have a minimum field of vision
+of 100° to both sides
+c. If mirrors are required for this rule, they must remain in place and adjusted to enable the
+required visibility throughout all dynamic events."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.4.3 state exactly? Answer with only the text of the rule and no other words.,"All voltage sense wires to the AMS must meet one of:
+a. Have Overcurrent Protection EV.7.4.4 below
+b. Meet requirements for no Overcurrent Protection listed in EV.7.4.5 below"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.5.10 state exactly? Answer with only the text of the rule and no other words.,"Connectors
+Tractive System connectors outside of a housing must meet one of the two:
+• Contain an Interlock EV.7.8 which must Open the Shutdown Circuit EV.7.2.2
+• Be sealed at Tech Inspection IN.4.7.1"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.2.5 state exactly? Answer with only the text of the rule and no other words.,"Correction
+If any part of a vehicle does not comply with the rules, or is otherwise a concern, the team
+must:
+• Correct the problem
+• Continue Inspection or have the vehicle Reinspected"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.2.1.1 state exactly? Answer with only the text of the rule and no other words.,"The SES is a supplement to the Formula SAE Rules and may provide guidance or further details
+in addition to those of the Formula SAE Rules."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule S.3.14.2 state exactly? Answer with only the text of the rule and no other words.,Adjustments from the Cost Audit will be included in the final scores
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule F.8.8.6 state exactly? Answer with only the text of the rule and no other words.,"Impact Attenuator Test Setup
+a. During any test, the Impact Attenuator must be attached to the Anti Intrusion Plate using
+the intended vehicle attachment method.
+b. The Impact Attenuator Assembly must be attached to a structurally representative
+section of the intended chassis.
+The test fixture must have equivalent strength and stiffness to a baseline front bulkhead.
+A solid block of material in the shape of the front bulkhead is not “structurally
+representative”.
+c. There must be 50 mm minimum clearance rearwards of the Anti Intrusion Plate to the
+test fixture.
+d. No part of the Anti Intrusion Plate may permanently deflect more than 25 mm beyond
+the position of the Anti Intrusion Plate before the test.
+The 25 mm spacing represents the front bulkhead support and insures that the plate does not
+intrude excessively into the cockpit."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.12.11.2 state exactly? Answer with only the text of the rule and no other words.,"Passing zones have two parallel lanes – a slow lane for the vehicles that are being passed and
+a fast lane for vehicles that are making a pass."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule T.5.5.2 state exactly? Answer with only the text of the rule and no other words.,The vehicle must be capable of being tilted to a 45° angle without leaking fluid of any type.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.3.10.2 state exactly? Answer with only the text of the rule and no other words.,Disabled vehicles will be cleared from the track by the track workers.
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.3.10.1 state exactly? Answer with only the text of the rule and no other words.,"If a vehicle stalls and cannot restart without external assistance, or is damaged and not able to
+complete the run, it will be scored DNF for that run"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.2.4.1 state exactly? Answer with only the text of the rule and no other words.,"All airflow to the engine(s) must pass through a single circular restrictor placed in the intake
+system."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.7.3.6 state exactly? Answer with only the text of the rule and no other words.,"The AMS Indicator Light must be:
+a. Color: Red
+b. Clearly visible to the seated driver in bright sunlight
+c. Clearly marked with the lettering “AMS”"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.11.3.2 state exactly? Answer with only the text of the rule and no other words.,"The HVD EV.5.5 must be disconnected when vehicles are:
+a. Moved around the competition site
+b. Participating in Static Events"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.3.2.4 state exactly? Answer with only the text of the rule and no other words.,"Power and Voltage limits will be checked by the Energy Meter data
+Energy is calculated as the time integrated value of the measured voltage multiplied by the
+measured current logged by the Energy Meter."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.5 state exactly? Answer with only the text of the rule and no other words.,"Accelerator Pedal Position Sensor - APPS
+Refer to T.4.2 for specific requirements of the APPS"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.4.8.6 state exactly? Answer with only the text of the rule and no other words.,The BSPD must not reset when the Cockpit Main Switch IC.9.4 is turned OFF
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.11.3.1 state exactly? Answer with only the text of the rule and no other words.,"Cones (DOO)
+Two second penalty for each DOO (including cones after the finish line) on that run"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IC.7.3.2 state exactly? Answer with only the text of the rule and no other words.,Manually adjustable tuning devices must require tools to change
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.8.2.7 state exactly? Answer with only the text of the rule and no other words.,"The Charger must include a Charger Shutdown Button which is:
+a. A push-pull or push-rotate emergency switch
+b. Minimum diameter of 25 mm
+c. Labelled with the international electrical symbol (a red spark on a white edged blue
+OFF
+triangle)"
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule IN.8.5 state exactly? Answer with only the text of the rule and no other words.,"Mechanical Inspection Completion
+All vehicles must pass Mechanical Technical Inspection before a vehicle may attempt any
+further inspections."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule D.14.1.1 state exactly? Answer with only the text of the rule and no other words.,"After Endurance and refuelling are completed, all vehicles must report to Technical Inspection."
+We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. What does rule EV.6.3.2 state exactly? Answer with only the text of the rule and no other words.,"All Tractive System wiring must:
+a. Be marked with wire gauge, temperature rating and insulation voltage rating.
+A serial number or a norm printed on the wire is sufficient if this serial number or norm is
+clearly bound to the wire characteristics for example by a data sheet.
+b. Have temperature rating more than or equal to 90°C"

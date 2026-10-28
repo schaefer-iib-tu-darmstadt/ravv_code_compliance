@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Secrets
+.env
+
+# DesignQA benchmark data and metrics (download separately, see README)
+dataset/
+eval/
+
+# Generated artefacts
+results/
+results_for_publication/
+logs/
+.storage/
+.qdrant_local/
+.cache/
+dataset_synthetic/*/images/

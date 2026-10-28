@@ -1,0 +1,9 @@
+# API and model configuration (API keys belong in .env, never here)
+
+api:
+  base_url: "https://chat-ai.academiccloud.de/v1"  # GWDG / SAIA (overridable via GWDG_API_BASE)
+
+llm:
+  # Models whose <think>/<thought> reasoning blocks are stripped from responses
+  reasoning_model_list:
+  - "qwen3-235b-a22b"

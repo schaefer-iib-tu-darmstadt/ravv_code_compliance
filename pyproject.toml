@@ -1,0 +1,27 @@
+[project]
+name = "ravv-designqa"
+version = "1.0.0"
+description = "Vector, graph-based and retrieval-augmented visual verification (RAVV) pipelines for FSAE rule compliance on the DesignQA benchmark"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "llama-index-core>=0.14.2",
+    "llama-index-embeddings-openai>=0.5.1",
+    "llama-index-llms-openai>=0.5.6",
+    "llama-index-llms-openai-like>=0.5.1",
+    "llama-index-readers-file>=0.5.4",
+    "llama-index-vector-stores-qdrant>=0.8.5",
+    "networkx>=3.5",
+    "nltk>=3.9.1",
+    "numpy>=2.0",
+    "openai>=1.108.1",
+    "pandas>=2.2",
+    "pillow>=11.3.0",
+    "python-dotenv>=1.1.1",
+    "pyyaml>=6.0.2",
+    "qdrant-client>=1.15.1",
+    "rouge>=1.0.1",
+    "scipy>=1.16.2",
+    "sentence-transformers>=5.1.0",
+]
